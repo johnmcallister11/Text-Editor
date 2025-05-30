@@ -11,7 +11,7 @@ The base system provided a basic frontend and two backend services for word and 
 ## Technologies Used
 
 - Docker
-- Node.js, PHP, Python
+- Node.js, PHP, Python, Java, C#, Go
 - Express, Flask, PHP-FPM
 - CI/CD (GitLab Pipelines)
 - SQLite (for saving text)
